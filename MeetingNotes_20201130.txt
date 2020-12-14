@@ -1,0 +1,54 @@
+
+
+FAR - Employment
+Density - Housing
+
+
+TAZ Splits
+ - proportional distribution
+ - 
+
+
+200-225 sf per employee, 300-600 sf per employee, flex office
+
+
+Scenario 1
+
+  BRT
+    stop locations - buffer  (within 300 meters for transit stops)
+
+    adding story - marginal
+    office is better FAR?? == 3 and 4 story (base) to 5 and 6 story () FAR doesn't see (10-15% on office increases, 10% for BRT compared to 15% in LRT for Scenario 3)
+    330 space per employee, 15,000 sf 
+
+    already dense in base south of 13400 South -
+    allowable densisites to make it successful
+    
+    
+  
+Scenario 2
+
+  access along 90th
+  MVC and 90th
+    2-3 to 5-6 stories on
+    retail and entertainment centers
+  
+  Realy intensify between 90th and Daybreak
+  
+  MVC on steroids - 20-30 % increase
+    land to west development intensifies
+
+  redevelopment of older commercial
+  
+  
+  
+Scenario 3
+
+  light rail extended to Real Stadium
+  BRT on 12600 South
+  
+  light rail and BRT will have same impact (15% for LRT)
+  
+  intensity of uses at key intersections on 12600 South, mostly built out
+  
+  Bangerter and 12600
