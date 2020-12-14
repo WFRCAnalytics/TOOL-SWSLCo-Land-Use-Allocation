@@ -12,7 +12,7 @@ TAZ Splits
 200-225 sf per employee, 300-600 sf per employee, flex office
 
 
-Scenario 1
+Scenario 1 - Connectivity Focus
 
   BRT
     stop locations - buffer  (within 300 meters for transit stops)
@@ -33,7 +33,7 @@ Scenario 2
     2-3 to 5-6 stories on
     retail and entertainment centers
   
-  Realy intensify between 90th and Daybreak
+  Really intensify between 90th and Daybreak
   
   MVC on steroids - 20-30 % increase
     land to west development intensifies
